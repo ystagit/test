@@ -1,0 +1,35 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/home/vadim/IdeaProjects/email-svc/src/main/scala/org/service/FileActor.scala, /home/vadim/IdeaProjects/email-svc/src/main/scala/org/service/api/Api.scala)
+[debug] Removed products: Set()
+[debug] Modified external sources: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/home/vadim/IdeaProjects/email-svc/src/main/scala/org/service/FileActor.scala, /home/vadim/IdeaProjects/email-svc/src/main/scala/org/service/api/Api.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/home/vadim/IdeaProjects/email-svc/src/main/scala/org/service/FileActor.scala, /home/vadim/IdeaProjects/email-svc/src/main/scala/org/service/api/Api.scala)
+[info] Compiling 2 Scala sources to /home/vadim/IdeaProjects/email-svc/target/scala-2.10/classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.10.3
+[debug] Getting compiler-interface from component compiler for Scala 2.10.3
+[debug] Running cached compiler 1184b1, interfacing (CompilerInterface) with Scala compiler version 2.10.3
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-unchecked
+[debug] 	-deprecation
+[debug] 	-encoding
+[debug] 	utf8
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-7-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/classes:/home/vadim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
+[debug] 	-classpath
+[debug] 	/home/vadim/IdeaProjects/email-svc/target/scala-2.10/classes:/home/vadim/.ivy2/cache/io.spray/spray-can/bundles/spray-can-1.1.1.jar:/home/vadim/.ivy2/cache/io.spray/spray-io/bundles/spray-io-1.1.1.jar:/home/vadim/.ivy2/cache/io.spray/spray-util/bundles/spray-util-1.1.1.jar:/home/vadim/.ivy2/cache/io.spray/spray-http/bundles/spray-http-1.1.1.jar:/home/vadim/.ivy2/cache/org.parboiled/parboiled-scala_2.10/bundles/parboiled-scala_2.10-1.1.6.jar:/home/vadim/.ivy2/cache/org.parboiled/parboiled-core/bundles/parboiled-core-1.1.6.jar:/home/vadim/.ivy2/cache/io.spray/spray-routing/bundles/spray-routing-1.1.1.jar:/home/vadim/.ivy2/cache/io.spray/spray-httpx/bundles/spray-httpx-1.1.1.jar:/home/vadim/.ivy2/cache/org.jvnet.mimepull/mimepull/jars/mimepull-1.9.4.jar:/home/vadim/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar:/home/vadim/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.4.jar:/home/vadim/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar:/home/vadim/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.2.2.jar:/home/vadim/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.2.2.jar:/home/vadim/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.2.2.jar:/home/vadim/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.5.2.jar:/home/vadim/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.10.0.jar:/home/vadim/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.0.jar:/home/vadim/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar
+[debug] Scala compilation took 5.592001543 s
+[debug] Invalidated by transitive public inheritance: Set()
+[debug] Invalidated by direct dependency: Set()
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()

@@ -1,0 +1,36 @@
+[info] Running org.service.EmailBoot 
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main to exit
+[debug]   Classpath:
+[debug] 	/home/vadim/IdeaProjects/email-svc/target/scala-2.10/classes
+[debug] 	/home/vadim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
+[debug] 	/home/vadim/.ivy2/cache/io.spray/spray-can/bundles/spray-can-1.1.1.jar
+[debug] 	/home/vadim/.ivy2/cache/io.spray/spray-io/bundles/spray-io-1.1.1.jar
+[debug] 	/home/vadim/.ivy2/cache/io.spray/spray-util/bundles/spray-util-1.1.1.jar
+[debug] 	/home/vadim/.ivy2/cache/io.spray/spray-http/bundles/spray-http-1.1.1.jar
+[debug] 	/home/vadim/.ivy2/cache/org.parboiled/parboiled-scala_2.10/bundles/parboiled-scala_2.10-1.1.6.jar
+[debug] 	/home/vadim/.ivy2/cache/org.parboiled/parboiled-core/bundles/parboiled-core-1.1.6.jar
+[debug] 	/home/vadim/.ivy2/cache/io.spray/spray-routing/bundles/spray-routing-1.1.1.jar
+[debug] 	/home/vadim/.ivy2/cache/io.spray/spray-httpx/bundles/spray-httpx-1.1.1.jar
+[debug] 	/home/vadim/.ivy2/cache/org.jvnet.mimepull/mimepull/jars/mimepull-1.9.4.jar
+[debug] 	/home/vadim/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar
+[debug] 	/home/vadim/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.4.jar
+[debug] 	/home/vadim/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar
+[debug] 	/home/vadim/.ivy2/cache/org.json4s/json4s-native_2.10/jars/json4s-native_2.10-3.2.2.jar
+[debug] 	/home/vadim/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.2.2.jar
+[debug] 	/home/vadim/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.2.2.jar
+[debug] 	/home/vadim/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.5.2.jar
+[debug] 	/home/vadim/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.10.0.jar
+[debug] 	/home/vadim/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.0.jar
+[debug] 	/home/vadim/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar
+[debug] 	Thread run-main exited.
+[debug] Waiting for thread email-service-avtivator-akka.actor.default-dispatcher-4 to exit
+[debug] 	Thread email-service-avtivator-akka.actor.default-dispatcher-4 exited.
+[debug] Waiting for thread email-service-avtivator-akka.actor.default-dispatcher-6 to exit
+[debug] 	Thread email-service-avtivator-akka.actor.default-dispatcher-6 exited.
+[debug] Waiting for thread email-service-avtivator-akka.actor.default-dispatcher-5 to exit
+[debug] 	Thread email-service-avtivator-akka.actor.default-dispatcher-5 exited.
+[debug] Waiting for thread email-service-avtivator-akka.actor.default-dispatcher-2 to exit
+[debug] 	Thread email-service-avtivator-akka.actor.default-dispatcher-2 exited.
+[debug] Waiting for thread email-service-avtivator-scheduler-1 to exit
